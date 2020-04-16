@@ -5,16 +5,16 @@
 
 # Communications strategy
 - skill: Communications strategy
-  description: Content and marketing strategy,
+  description: Content and marketing strategy.
 
 # Digital content development and creation
 - skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+  description: Copy writing, graphic design, web design, front-end web development, print design.
   
-  - skill: Use with various IDE's
-  description: JetBrains, Visual, PHPStorm, and Eclipse
+- skill: Use with various IDE's
+  description: JetBrains, Visual, PHPStorm, and Eclipse.
   
-  - skill: Understanding of different Languages
-  description: HTML, JS, PHP, CSS, Java, Node.js, and Python
+- skill: Understanding of different Languages
+  description: HTML, JS, PHP, CSS, Java, Node.js, and Python.
   
 
