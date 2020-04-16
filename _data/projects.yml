@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Capstone Project - BetterFlye
+  role: Project Lead
+  duration: 2019 &mdash; Present
+  url: "https://imgur.com/gallery/g94HZKX"
+  description: Betterflye is a community engagment platform designed to bring together volunteers and organizations to work more efficiently towards the centralized goal of making communities better. I worked on the security side of the site, by creating and locking down the login/register pages. I also worked on the notifications system and the badge store, showing my versatility. 
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+- project: Computer Science for Middle Schoolers
   role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+  duration: 2019 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: CS4MS is a project designed to involve more students in the K-12 education system into the wonderful world of computer science. My role was to ensure that students were learning something from our combined efforts.  
