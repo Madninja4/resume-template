@@ -23,7 +23,7 @@ resume_contact_address:         "1811 W Royale Dr. Apt 1C"
 resume_header_contact_info:     "1811 W Royale Dr. Apt 1C • 812-677-3018 • corbincreedon@yahoo.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hello! My name is Corbin Creedon and I am always looking for the next big thing. I always am looking for something to learn and experience, and am willing to put forth hard work and effort to achieve these goals. /p>"
+resume_header_intro: "<p>Hello! My name is Corbin Creedon and I am always looking for the next big thing. I always am looking for something to learn and experience, and am willing to put forth hard work and effort to achieve these goals. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
